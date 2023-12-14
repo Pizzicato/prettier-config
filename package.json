@@ -8,5 +8,8 @@
     "url": "https://github.com/your-name-here/prettier-config"
   },
   "author": "S1M",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
