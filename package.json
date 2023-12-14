@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "S1M Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:Pizzicato/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-name-here/prettier-config"
+  },
   "author": "S1M",
   "license": "MIT"
 }
